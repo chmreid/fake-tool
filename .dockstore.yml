@@ -2,6 +2,7 @@ version: 1.2
 tools:
   - subclass: CWL
     primaryDescriptorPath: fake-tool.cwl
+    testParameterFiles: fake-tool.cwl
     authors:
       - name: Quintiferous Sankeyboots
         email: sankeyboots@example.com
